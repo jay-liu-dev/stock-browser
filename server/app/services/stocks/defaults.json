@@ -1,0 +1,90 @@
+[
+    {
+        "name": "3M",
+        "symbol": "MMM"
+    },
+    {
+        "name": "Amazon.com",
+        "symbol": "AMZN"
+    },
+    {
+        "name": "Campbell Soup",
+        "symbol": "CPB"
+    },
+    {
+        "name": "Disney",
+        "symbol": "DIS"
+    },
+    {
+        "name": "Dow Chemical",
+        "symbol": "DOW"
+    },
+    {
+        "name": "Exxon Mobil",
+        "symbol": "XOM"
+    },
+    {
+        "name": "Ford",
+        "symbol": "F"
+    },
+    {
+        "name": "The Gap",
+        "symbol": "GPS"
+    },
+    {
+        "name": "General Mills",
+        "symbol": "GIS"
+    },
+    {
+        "name": "Hewlett Packard",
+        "symbol": "HPQ"
+    },
+    {
+        "name": "IBM",
+        "symbol": "IBM"
+    },
+    {
+        "name": "Johnson & Johnson",
+        "symbol": "JNJ"
+    },
+    {
+        "name": "Microsoft",
+        "symbol": "MSFT"
+    },
+    {
+        "name": "Monsanto",
+        "symbol": "MO"
+    },
+    {
+        "name": "PepsiCo",
+        "symbol": "PEP"
+    },
+    {
+        "name": "Starbucks",
+        "symbol": "SBUX"
+    },
+    {
+        "name": "Texas Instruments",
+        "symbol": "TXN"
+    },
+    {
+        "name": "Time Warner",
+        "symbol": "TWX"
+    },
+    {
+        "name": "United Health",
+        "symbol": "UNH"
+    },
+    {
+        "name": "Walmart",
+        "symbol": "WMT"
+    },
+    {
+        "name": "Whirlpool",
+        "symbol": "WHR"
+    },
+    {
+        "name": "Xerox",
+        "symbol": "XRX"
+    }
+]
